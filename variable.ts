@@ -1,6 +1,6 @@
-const number1 = "Привет "
-const number2 = "мир!"
+const word1 = "Привет "
+const word2 = "мир!"
 
-const result = number1 + number2
+const result = word1 + word2
 
 console.log(result)
